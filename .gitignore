@@ -135,5 +135,8 @@ audacity_files/
 img/spect2_test/
 img/spectrograms_no_aug_bw/
 img/spectrograms_no_aug_color/
+hidden_notes.ipynb
+img/
+hidden_notes.ipynb
 
-
+mel_features.ipynb
