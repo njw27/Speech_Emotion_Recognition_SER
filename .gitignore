@@ -132,4 +132,8 @@ dmypy.json
 # Project Data Directory 
 EmoV-DB_sorted/
 audacity_files/
+img/spect2_test/
+img/spectrograms_no_aug_bw/
+img/spectrograms_no_aug_color/
+
 
