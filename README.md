@@ -1,4 +1,4 @@
-# **Speech Emotion Recognition ** - Using Short Voice Clips to Identify User Emotion in Python
+# ** Speech Emotion Recognition ** - Using Short Voice Clips to Identify User Emotion in Python
 ### Code by Nicholas Wertz
 #### Flatiron School Capstone Project  
 ----
