@@ -49,6 +49,6 @@ UPDATE AND REWRITE
 ├──[Notebook.pdf]()     <------ PDF of Final Jupyter Notebook  <br> 
 ├──[Notebook.ipynb]()     <---- Final Project Jupyter Notebook <br>
 ├──[Presentation.pdf]()     <--- PDF of Project Presentation for UPDATE <br>
-├──[README.md]()     <------- README.md that you are currently reading <br>
+├──[README.md](https://github.com/njw27/SER_Capstone/blob/main/README.md)     <------- README.md that you are currently reading <br>
 
 
