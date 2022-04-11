@@ -147,7 +147,13 @@ practice_clips/
 chopped_wavs/
 trimmed_audio/
 samp_chopped/
- 
+old_notebooks/
+test_spectro/
+test_wavs/
+train_spectro/
+aug_train_wavs/
 
-
+#raw audio > trimmed audio > chopped Audio > testtrainsplit> 
+#train >augmented > specrogram
+#test > specrogram 
  
