@@ -1,4 +1,4 @@
-# **Speech Emotion Recognition** - Using Voice Clips to Identify User Sentiment withPython
+# **Speech Emotion Recognition** - Using Voice Clips to Identify User Sentiment with Python
 ### Code by Nicholas Wertz
 #### Flatiron School Capstone Project  
 ----
@@ -43,14 +43,12 @@ UPDATE AND REWRITE
 
 
 ## Repo Navigation 
-├──[images/](https://github.com/njw27/SER_Capstone/tree/main/images) <--------------- Directrory of all images Used For Project <br> 
-│   └── ...   <br>
-├──[models_pkls/](https://github.com/njw27/SER_Capstone/tree/main/model_pkls)  <------------ Directrory of all `.pkl` files from modeling <br> 
-│   └── ...   <br>
-├──[.gitignore](https://github.com/njw27/SER_Capstone/blob/main/.gitignore)     <---------- Git Ignore for Project Repo  <br> 
-├──[Notebook.pdf]()     <------ PDF of Final Jupyter Notebook  <br> 
-├──[Notebook.ipynb]()     <---- Final Project Jupyter Notebook <br>
-├──[Presentation.pdf]()     <--- PDF of Project Presentation for UPDATE <br>
-├──[README.md](https://github.com/njw27/SER_Capstone/blob/main/README.md)     <------- README.md that you are currently reading <br>
+├──[ images/ ](https://github.com/njw27/SER_Capstone/tree/main/images) <--------------Directrory of all images Used For Project <br> 
+├──[ models_pkls/ ](https://github.com/njw27/SER_Capstone/tree/main/model_pkls) <-------- Directrory of all `.pkl` files from modeling <br> 
+├──[ .gitignore ](https://github.com/njw27/SER_Capstone/blob/main/.gitignore) <------------ Git Ignore for Project Repo  <br> 
+├──[ Notebook.pdf ]() <-------- PDF of Final Jupyter Notebook  <br> 
+├── [Notebook.ipynb ]() <------ Final Project Jupyter Notebook <br>
+├──[ Presentation.pdf ]() <----- PDF of Project Presentation <br>
+├── [README.md ](https://github.com/njw27/SER_Capstone/blob/main/README.md) <--------- README.md that you are currently reading <br>
 
 
