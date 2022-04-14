@@ -43,9 +43,11 @@ UPDATE AND REWRITE
 
 
 ## Repo Navigation 
-├──[data/]() <--------------- Data UPDATE <br> 
-├──[images/]()     <------------ Images Used For Project UPDATE <br> 
-├──[.gitignore]()     <---------- Git Ignore for Project Repo UPDATE <br> 
+├──[images/](https://github.com/njw27/SER_Capstone/tree/main/images) <--------------- Directrory of all images Used For Project <br> 
+│   └── ...   <br>
+├──[models_pkls/](https://github.com/njw27/SER_Capstone/tree/main/model_pkls)  <------------ Directrory of all `.pkl` files from modeling <br> 
+│   └── ...   <br>
+├──[.gitignore](https://github.com/njw27/SER_Capstone/blob/main/.gitignore)     <---------- Git Ignore for Project Repo  <br> 
 ├──[Notebook.pdf]()     <------ PDF of Final Jupyter Notebook  <br> 
 ├──[Notebook.ipynb]()     <---- Final Project Jupyter Notebook <br>
 ├──[Presentation.pdf]()     <--- PDF of Project Presentation for UPDATE <br>
