@@ -152,4 +152,4 @@ test_spectro/
 test_wavs/
 train_spectro/
 aug_train_wavs/
-process_sound.ipynd 
+process_sound.ipynb
