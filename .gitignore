@@ -152,9 +152,4 @@ test_spectro/
 test_wavs/
 train_spectro/
 aug_train_wavs/
-
-
-#raw audio > trimmed audio > chopped Audio > testtrainsplit> 
-#train >augmented > specrogram
-#test > specrogram 
- 
+process_sound.ipynd 
