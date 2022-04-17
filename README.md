@@ -74,8 +74,8 @@ For the confusion matrix above: 0 = Amusement , 1 = Anger, 2 = Disgust, 3 = Neut
 
 We can use our model's strengths to the advantage of our client, by suggesting that our client's software performs additional actions when sleepiness is detected. For example, after displaying user emotions on their avatar, our client can have their software perform actions that will draw the attention of the sleepy user, keeping them engaged with their software longer.
 
-Possible future improvements include:
-- Closely balance the input data
+Possible future improvements:
+- Closely balance the emotional data
 - Collect user audio to continuously improve the model
 - Expand the dataset to incorporate a variety of languages and accents
 
