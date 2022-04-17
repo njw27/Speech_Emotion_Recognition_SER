@@ -56,9 +56,9 @@ A Mel Spectrogram is a representation of an audio signal converted to the "Mel S
 
 ## Modeling
 
-The first baseline model consited of a 10 node 2D convolution layer that was then flattened, and output with a five node output layer, using a softmax activation function. This model passed through the data only once. The baseline model was able to correctly predict the class of 2 second audio clip 51% of the time.
+The first baseline model consisted of a 10 node 2D convolution layer that was then flattened, and output with a five node output layer, using a softmax activation function. This model passed through the data only once. The baseline model was able to correctly predict the class of 2 second audio clip 51% of the time.
 
-The final model added several addtional 2D convolution layers and max pooling layers. The resulting model was accurate to nearly 74% and had a loss of only 0.7659.
+The final model added several additional 2D convolution layers and max pooling layers. The resulting model was accurate to nearly 74% and had a loss of only 0.7659.
 
 ## Evaluation
 
