@@ -95,6 +95,6 @@ Possible future improvements:
 ├──[ README.md ](https://github.com/njw27/SER_Capstone/blob/main/README.md) < -------------- README.md that you are currently reading <br>
 ├──[ SER_Notebook.pdf ](https://github.com/njw27/SER_Capstone/blob/main/SER_Notebook.pdf) <-------- PDF of Final Jupyter Notebook  <br> 
 ├──[ SER_Notebook.ipynb ](https://github.com/njw27/SER_Capstone/blob/main/SER_Notebook.ipynb) <------ Final Project Jupyter Notebook <br>
-├──[ Presentation.pdf ]() <---------- PDF of Project Presentation <br>
+├──[ Presentation_SER_Capstone.pdf ](https://github.com/njw27/SER_Capstone/blob/main/Presentation_SER_Capstone.pdf) <---------- PDF of Project Presentation <br>
 
 
