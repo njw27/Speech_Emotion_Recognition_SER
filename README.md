@@ -72,7 +72,7 @@ While our final model has an excellent multiclassification test accuracy of near
 
 Due to the large amount of sleepiness data, our final model is excellent at identifying sleepiness in users, with a precision of 81% and a recall of 88%. With an F1 score of 84%, our final model will be able to identify sleepiness in nearly 17 of every 20 users!
 
-![Confusion Matrix - Final Model](images/plots/final_model_cm.png)
+![Confusion Matrix - Final Model](images/plots/final_model_cm.png) <br>
 For the confusion matrix above: 0 = Amusement , 1 = Anger, 2 = Disgust, 3 = Neutral, 4 = Sleepiness
 
 
