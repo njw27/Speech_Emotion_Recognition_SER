@@ -1,10 +1,8 @@
 # **Speech Emotion Recognition (SER)** - Using Voice Clips to Identify User Sentiment with Python
+![Metaverse Banner](images/reference/Banner_1.png)
 ### Code by Nicholas Wertz
 #### Flatiron School - Capstone Project 
-
-Presentation Available on [Canva](https://bit.ly/3JR2BX9)
-
-![Metaverse Banner](images/reference/Banner_1.png)
+#### Presentation Available on [Canva](https://bit.ly/3JR2BX9)
 ----
 
 # Table of Contents
