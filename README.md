@@ -4,16 +4,14 @@
 #### Flatiron School - Capstone Project 
 #### Presentation Available on [Canva](https://bit.ly/3JR2BX9)
 ----
-
 # Table of Contents
-#### Overview
-#### Business Understanding
-#### Data Understanding
-#### Modeling
-#### Evaluation
-#### Conclusion
-#### Repository Navigation
-
+#### [Overview](https://github.com/njw27/Speech_Emotion_Recognition_SER#overview-1)
+#### [Business Understanding](https://github.com/njw27/Speech_Emotion_Recognition_SER#business-understanding-1)
+#### [Data Understanding](https://github.com/njw27/Speech_Emotion_Recognition_SER#data-understanding-1)
+#### [Modeling](https://github.com/njw27/Speech_Emotion_Recognition_SER#modeling-1)
+#### [Evaluation](https://github.com/njw27/Speech_Emotion_Recognition_SER#evaluation-1)
+#### [Conclusion](https://github.com/njw27/Speech_Emotion_Recognition_SER#conclusion-1)
+#### [Repository Navigation](https://github.com/njw27/Speech_Emotion_Recognition_SER#repo-navigation)
 ---
 
 ## Overview
